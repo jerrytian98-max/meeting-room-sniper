@@ -1,0 +1,14 @@
+{
+  "buildingId": 0,
+  "buildingName": "目标办公楼",
+  "date": "2099-01-01",
+  "startTime": "14:00",
+  "endTime": "15:00",
+  "capacityMin": 1,
+  "capacityMax": 6,
+  "mis": "你的企业账号",
+  "title": "会议",
+  "deadline": "2099-01-01T13:30:00+08:00",
+  "extraAttendees": []
+}
+

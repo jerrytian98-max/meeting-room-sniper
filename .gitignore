@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 认证信息（禁止提交）
+cookie.json
+**/cookie.json
+*.cookie.json
+
+# 本地运行配置与结果
+sniper-config.json
+sniper-result.json
+sniper-log.txt
+scripts/monitor-config.json
+scripts/monitor-log.md
+
+# 通用日志、临时文件和编辑器配置
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

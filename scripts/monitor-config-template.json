@@ -1,0 +1,17 @@
+{
+  "city": "",
+  "building": "",
+  "floor": "",
+  "date": "",
+  "timeStart": "",
+  "timeEnd": "",
+  "capacity": 5,
+  "subject": "周驰的会议",
+  "intervalMin": 3,
+  "deadline": "",
+  "status": "watching",
+  "createdAt": "",
+  "lastCheck": null,
+  "checkCount": 0,
+  "errorCount": 0
+}
