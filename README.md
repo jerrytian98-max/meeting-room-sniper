@@ -4,18 +4,6 @@
 
 > 该项目针对MT公司内部日历系统开发，不是开箱即用的通用订会议室程序。它依赖MT企业账号、有效的 SSO Cookie、内部接口权限以及另一个 `room-booking-helper` 技能。仓库不包含任何登录凭据。
 
-## 来源说明
-
-原始 `SKILL.md` 中记录的信息如下：
-
-- 技能名称：`meeting-room-sniper`
-- 创建者/更新者：`Jerry`
-- 来源：`Skillhub`
-- Skill ID：`2934`
-- 原始版本：`V5`
-
-本仓库保留上述元数据用于来源追踪，不宣称对原始代码拥有额外权利。
-
 ## 工作方式
 
 1. 从 `room-booking-helper/cookie.json` 读取已登录会话。
